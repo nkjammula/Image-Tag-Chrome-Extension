@@ -1,0 +1,14 @@
+.imageScroller{
+  position: fixed;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+.fa-times-circle{
+  color: red;
+  font-weight: bolder;
+  font-size: x-large;
+}
+.imageScroller li{
+  cursor: pointer;
+}
